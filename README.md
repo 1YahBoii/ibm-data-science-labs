@@ -29,3 +29,9 @@ Two datasets, used cars and laptops, carried through every stage of the analysis
 | 5 · Evaluation & refinement | [module5_evaluation_used_cars](course-7-data-analysis/module5_evaluation_used_cars.ipynb) | [module5_evaluation_laptops](course-7-data-analysis/module5_evaluation_laptops.ipynb) |
 
 Course 7 projects: [insurance-charges-analysis](https://github.com/1YahBoii/insurance-charges-analysis) · [king-county-house-prices](https://github.com/1YahBoii/king-county-house-prices)
+
+### Course 8 — Data Visualization with Python
+| Module | Notebook | What I practised |
+|---|---|---|
+| 1 · Intro to visualization | [module1_pandas_immigration](course-8-data-visualization/module1_pandas_immigration.ipynb) | Loading, renaming, totals, `loc`/`iloc`, filters and top N on the Canada immigration data |
+| 1 · Intro to visualization | [module1_line_plots](course-8-data-visualization/module1_line_plots.ipynb) | Line plots, annotating the 2010 Haiti spike, transposing for China vs India and the top 5 |
