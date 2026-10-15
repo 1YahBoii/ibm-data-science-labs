@@ -35,3 +35,6 @@ Course 7 projects: [insurance-charges-analysis](https://github.com/1YahBoii/insu
 |---|---|---|
 | 1 · Intro to visualization | [module1_pandas_immigration](course-8-data-visualization/module1_pandas_immigration.ipynb) | Loading, renaming, totals, `loc`/`iloc`, filters and top N on the Canada immigration data |
 | 1 · Intro to visualization | [module1_line_plots](course-8-data-visualization/module1_line_plots.ipynb) | Line plots, annotating the 2010 Haiti spike, transposing for China vs India and the top 5 |
+| 2 · Basic & specialized tools | [module2_area_hist_bar](course-8-data-visualization/module2_area_hist_bar.ipynb) | Stacked vs unstacked area plots, histograms with aligned bins, a labelled top-15 bar chart |
+| 2 · Basic & specialized tools | [module2_pie_box_scatter_bubble](course-8-data-visualization/module2_pie_box_scatter_bubble.ipynb) | Pie charts, box plots and the IQR outlier rule, scatter plots, bubble plots with min-max scaling |
+| 2 · Basic & specialized tools | [module2_matplotlib_direct](course-8-data-visualization/module2_matplotlib_direct.ipynb) | The object-oriented interface: annotated line plot, bar, histogram, pie and a 2×2 subplot grid |
